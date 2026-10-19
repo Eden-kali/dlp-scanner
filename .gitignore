@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated DLP reports
+*.dlp-report.json
+/report.json
+/directory_report.json
+/secure_report.json
+# Local environment and credential files
+.env
+.env.*
+!.env.example
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,9 @@
+Company security Audit
+
+Contact: jack@example.com
+Server IP: 192.168.1.25
+Phone: +254 712 345 678
+Payment Card: 4539 1488 0343 6467
+api_key = "f8Jk2Pq9Xm4Vz7Lc"
+
+End of report.
